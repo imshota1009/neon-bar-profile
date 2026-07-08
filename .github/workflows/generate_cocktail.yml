@@ -22,6 +22,8 @@ jobs:
 
       - name: Generate Cocktail and Cat SVGs
         run: node scripts/generate_cocktail.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push changes
         run: |
