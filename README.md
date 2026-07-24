@@ -6,10 +6,10 @@ Add a dynamic cocktail glass and a level-up bartender cat to your GitHub profile
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
-        <img src="assets/cocktail.svg?v=1784882152139" width="280" alt="Cocktail Glass" />
+        <img src="assets/cocktail.svg?v=1784901537034" width="280" alt="Cocktail Glass" />
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="assets/cat_bartender.svg?v=1784882152139" width="280" alt="Bartender Cat" />
+        <img src="assets/cat_bartender.svg?v=1784901537034" width="280" alt="Bartender Cat" />
       </td>
     </tr>
   </table>
@@ -62,10 +62,10 @@ Open your profile README (the repository named after your username) and insert t
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/neon-bar-profile/main/assets/cocktail.svg?v=1784882152139" width="300" alt="Cocktail Glass" />
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/neon-bar-profile/main/assets/cocktail.svg?v=1784901537034" width="300" alt="Cocktail Glass" />
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/neon-bar-profile/main/assets/cat_bartender.svg?v=1784882152139" width="300" alt="Bartender Cat" />
+        <img src="https://raw.githubusercontent.com/YOUR_USERNAME/neon-bar-profile/main/assets/cat_bartender.svg?v=1784901537034" width="300" alt="Bartender Cat" />
       </td>
     </tr>
   </table>
